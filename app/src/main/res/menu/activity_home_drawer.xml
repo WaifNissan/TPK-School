@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_vocabulary"
+            android:icon="@drawable/vocabulary"
+            android:title="@string/category_vocabulary" />
+        <item
+            android:id="@+id/nav_game"
+            android:icon="@drawable/game"
+            android:title="@string/category_game" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/website"
+            android:title="@string/category_website"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/about"
+            android:title="@string/category_about" android:visible="false"/>
+    </group>
+
+    <item android:title="Information">
+        <menu>
+            <item
+                android:id="@+id/nav_website"
+                android:icon="@drawable/website"
+                android:title="@string/category_website" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="@string/category_about" />
+        </menu>
+    </item>
+
+</menu>

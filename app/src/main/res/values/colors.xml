@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#edede1</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Background color for app -->
+    <color name="tamil_cream">#edede1</color>
+    <!-- Background color for the numbers category -->
+    <color name="category_numbers">#6ec5cd</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_family">#a998cc</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_colors">#ffea01</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_phrases">#dbdbdb</color>
+
+    <!-- Background color for the vocabulary category -->
+    <color name="category_vocabulary">#ffc2c2</color>
+
+    <!-- Background color for the game category -->
+    <color name="category_game">#d188ff</color>
+
+    <!-- Background color for the about category -->
+    <color name="category_about">#dbdbdb</color>
+
+    <!-- Background color for the website category -->
+    <color name="category_website">#ffe9c2</color>
+
+    <!-- Background color for the splash screen -->
+    <color name="background_splash">#edede1</color>
+
+    <!-- Tamil red color -->
+    <color name="tpk_action_bar_tamizh_red">#b74848</color>
+
+    <!-- CardView color -->
+    <color name="lightgray">#ededed</color>
+
+    <!-- vocabulary text background -->
+    <color name="vocab_text_background">#ededed</color>
+
+
+</resources>
