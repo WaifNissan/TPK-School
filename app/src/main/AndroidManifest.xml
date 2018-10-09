@@ -18,6 +18,7 @@
             android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -27,11 +28,13 @@
         <activity
             android:name=".QuestionActivity"
             android:label="@string/title_activity_question" />
-        <activity android:name=".ResultSplashActivity"></activity>
+        <activity android:name=".ResultSplashActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".StartScreenActivity"></activity>
     </application>
 
 </manifest>
