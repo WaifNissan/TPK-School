@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tamizh Pallikoodam</string>
+    <string name="nav_header_title">Tamizh Pallikoodam Inc.</string>
+    <string name="nav_header_subtitle">www.tamizhpallikoodam.org.au/</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Члены семьи</string>
+
+    <!-- Category name for the vocabulary words [CHAR LIMIT=20] -->
+    <string name="category_vocabulary">Запас слов</string>
+
+    <!-- Category name for the about [CHAR LIMIT=20] -->
+
+    <!-- Category name for the website [CHAR LIMIT=20] -->
+
+    <!-- Category name for the game [CHAR LIMIT=20] -->
+
+    <!-- details for the game [CHAR LIMIT=20] -->
+
+    <!-- details for the about [CHAR LIMIT=20] -->
+
+    <!-- details for the website [CHAR LIMIT=20] -->
+
+    <!-- details for the vocabs [CHAR LIMIT=20] -->
+
+    <!-- details for the numbers [CHAR LIMIT=20] -->
+
+    <!-- details for the colors [CHAR LIMIT=20] -->
+
+    <!-- details for the family members [CHAR LIMIT=20] -->
+
+    <!-- details for the family phrases [CHAR LIMIT=20] -->
+
+    <!-- http://www.tamizhpallikoodam.org.au/ -->
+    <string name="tamizhpallikoodam_website">http://www.tamizhpallikoodam.org.au/</string>
+
+    <!-- Slogan for main menu-->
+
+    <!-- about app title-->
+
+    <!-- about app text-->
+
+    <!-- about app text-->
+
+    <!-- about app text-->
+    <string name="text_about_app_3">This app has been developed by Digital Bliss team as part of their final assignment for COSC7362 Develop advanced mobile multi-touch applications course of study, RMIT university, 2018</string>
+
+    <!-- game submit button-->
+    <string name="title_activity_home">"Главное меню "</string>
+    <string name="navigation_drawer_open">Открыть навигационный ящик</string>
+    <string name="navigation_drawer_close">Закрыть навигационный ящик</string>
+    <string name="nav_header_desc">Заголовок заголовка</string>
+    <string name="action_settings">настройки</string>
+    <string name="category_colors">Цвета</string>
+    <string name="category_numbers">чисел</string>
+    <string name="category_phrases">фразы</string>
+    <string name="category_about">Около</string>
+    <string name="category_website">Веб-сайт</string>
+    <string name="category_game">Игра</string>
+    <string name="details_game">Поиск слов</string>
+    <string name="details_about">Об этом приложении</string>
+    <string name="details_website">Посетить сайт школы</string>
+    <string name="details_vocabualry">Изучите некоторые тамильские слова</string>
+    <string name="details_numbers">Изучите номера тамилов</string>
+    <string name="details_colors">Цвета на языке тамизов</string>
+    <string name="details_family">"Члены семьи в Тамиже "</string>
+    <string name="details_phrases">Основные фразы Тамил</string>
+    <string name="title_gui_menu">"Давайте учиться тамилу! "</string>
+    <string name="title_activity_question">" Вопрос"</string>
+    <string name="title_about_app">" О приложении Tamizh Pallikoodam"</string>
+    <string name="text_about_app">"Tamizh Pallikoodam (TPK) - это некоммерческая школа, предназначенная исключительно для того, чтобы предоставить австралийцам возможность исследовать и испытать богатые тамильские традиции, язык, искусство и культуру. Наша тамильская школа является великим сторонником многокультурной повестки дня австралийского правительства. Школа имеет уникальную группу лидеров, составленную из старших преподавателей в государственных и частных школах вокруг Мельбурна, Виктория, которые разработали учебную программу с высокой степенью контекста, которая делает обучение Тамиллу забавным. Учебная программа находится в рамках викторианской парадигмы стандартного обучения (VELS), и, следовательно, дети учат тамилов таким же образом, как их учат другим предметам в дневных школах. Дети изучают язык, а также историю и культуру тамильского языка, изучая рассказывание историй, драму и сцену. Изучение нескольких языков имеет доказательную базу для повышения познавательного и интеллектуального потенциала ученика, и есть надежда, что Pallikoodam будет способствовать обогащению будущих поколений Австралии, интеллектуально, философски и эмоционально, что приведет к хорошо округленному, сочувствующему, всеохватывающему гражданин мира. Tamizh Pallikoodam - это некоммерческая школа. "</string>
+    <string name="text_about_app_2">"Общая идея заключается в том, чтобы мобильное приложение использовалось в качестве инструмента, помогающего в процессе обучения для студентов. Сделайте изучение языка интересным и интересным. Использование конкретных приложений, подобных этому, может помочь школе как организации, которая использует технологии в обучении и обучении, в свою очередь получая добрую волю в сообществе. "</string>
+    <string name="button_submit">ОТПРАВИТЬ</string>
+</resources>
