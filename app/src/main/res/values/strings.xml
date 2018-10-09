@@ -20,7 +20,6 @@
     <string name="category_family">Family Members</string>
 
     <!-- Category name for the vocabulary words [CHAR LIMIT=20] -->
-    <string name="category_vocabulary">Vocabulary</string>
 
     <!-- Category name for the about [CHAR LIMIT=20] -->
     <string name="category_about">About</string>
@@ -87,5 +86,6 @@ Make learning the language interesting and fun. The use of specific applications
 
     <!-- game submit button-->
     <string name="button_submit">SUBMIT</string>
+    <string name="category_vocabulary">Vocabulary</string>
 
 </resources>
